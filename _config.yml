@@ -1,0 +1,28 @@
+name: RS TURBO Garments
+favicon: null
+layout_spectrum: 0.9429906273726374
+typography_spectrum: 0.9917936343699694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.24703476927243173
+  lightness: 0.1252587956842035
+  saturation: 0.2198282068129629
+  rhythmicContrast: 0.35507846460677683
+purpose: []
